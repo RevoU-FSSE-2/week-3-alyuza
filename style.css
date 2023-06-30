@@ -13,10 +13,10 @@
 
 h1 {
     font-family: franklin;
-    letter-spacing: 5px;
+    letter-spacing: 4px;
     color: rgb(255, 255, 255);
     font-size: 60px;
-    text-shadow: 6px 6px rgb(0, 0, 0);
+    text-shadow: 6px 6px rgb(66, 16, 16);
     animation: flip 4s infinite;
 }
 
@@ -97,7 +97,7 @@ body {
         flex-direction: column;
         justify-content: center;
         padding-top: 76px;
-        background-image: url(Assets/background.jpg);
+        background-image: url(Assets/background1.jpg);
         background-size: cover;
         background-position: center top;
     }
@@ -264,4 +264,35 @@ body {
         padding: 4px;
     }
 
-    
+/* price hover */
+.price {
+    position: absolute;
+    background-color: rgb(0, 0, 0);
+    color: white;
+    padding: 10px 15px;
+    border-radius: 8px;
+    left: 25%;
+    bottom: 0%;
+    visibility: hidden;
+    font-size: 20px;
+}
+.shop-item:hover .price {
+    visibility: visible;
+    opacity: 1;
+}
+
+.name-tag {
+    position: absolute;
+    background-color: rgb(0, 0, 0);
+    color: white;
+    padding: 10px 15px;
+    border-radius: 8px;
+    left: 25%;
+    bottom: 15%;
+    visibility: hidden;
+    font-size: 20px;
+}
+.shop-item:hover .name-tag {
+    visibility: visible;
+    opacity: 1;
+}
