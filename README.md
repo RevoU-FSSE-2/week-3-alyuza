@@ -20,7 +20,7 @@ Menu `Shop` terhubung dengan link tugas Week Ke-3
 - Fonts
 
 ## HASIL TAMPILAN WEBSITE
-![image](Assets/github.png)
+![image](Assets/github1.png)
 
 ## DEPLOYMENT LINK
 
