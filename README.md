@@ -23,7 +23,7 @@ Di minggu ke-3 ini saya ditugaskan untuk membuat website yang menggunakan bebera
 Menu `Home` terhubung dengan link tugas Week ke-2
 Menu `Shop` terhubung dengan link tugas Week Ke-3
 ## KOMPONEN YANG DIGUNAKAN
-- HTML
+- HTML 
 - CSS
 - Assets (Picture)
 - Fonts
@@ -33,4 +33,4 @@ Menu `Shop` terhubung dengan link tugas Week Ke-3
 
 ## DEPLOYMENT LINK
 
-Click [here](https://world-taekwondo.netlify.app/) to see my Project 
+Click [here](https://taekwondo-shop.netlify.app/) to see my Project 
