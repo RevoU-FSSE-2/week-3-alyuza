@@ -3,25 +3,25 @@
 # Week-3 RevoU Assignment 👨‍💻
 
 ## Hi semua, Saya Alyuza Satrio Prayogo 👋
-Pada tugas minggu ke-3 ini saya membuat website online shop yang menjual alat-alat Taekwondo, website ini terhubung dengan assignment minggu ke-2 saya.
+Pada tugas minggu ke-3 ini saya membuat website E-Comerce fokus pada penjualan alat-alat beladiri Taekwondo.
+Semua tugas intermediate sudah dikerjakan, dari @font-face, text-shadow, responsive background-image (contain or cover), responsive image with picture + source + srcset, Asymmetric Grid, advanced form element, simple animation and transition.
 
-### WEBSITE LAYOUT
+### Website Navigation
 - Home
 - Shop
 - Athletes Profile
 - Contact
 
 Menu `Home` terhubung dengan link tugas Week ke-2
-Menu `Shop` terhubung dengan link tugas Week Ke-3
-## KOMPONEN YANG DIGUNAKAN
+Menu `Shop` terhubung dengan link tugas Week ke-3
+## Komponen Yang Digunakan
 - HTML 
 - CSS
 - Assets (Picture)
 - Fonts
 
-## HASIL TAMPILAN WEBSITE
+## Hasil Tampilan Website
 ![image](Assets/github1.png)
-
-## DEPLOYMENT LINK
-
-Click [here](https://taekwondo-shop.netlify.app/) to see my Project 
+## Skor Google Lighthouse
+![image](Assets/lighthouse.png)
+## Deployment [Link](https://taekwondo-shop.netlify.app/) Here !
